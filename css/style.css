@@ -1,0 +1,15 @@
+body {
+    background-color: slateblue;
+    text-align: left;
+    color: goldenrod;
+
+}
+#books {
+    text-align: left;
+}
+#main {
+    text-align: center;
+}
+.space {
+    margin-block: 100px;
+}
