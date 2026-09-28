@@ -3,13 +3,34 @@ body {
     text-align: left;
     color: goldenrod;
 
+
 }
+
+
+
 #books {
-    text-align: left;
+    text-align: center;
+    
 }
 #main {
     text-align: center;
 }
 .space {
     margin-block: 100px;
+}
+h4 {
+    text-decoration: underline;
+    color: palevioletred;
+    font-size: 170%;
+    
+}
+#flex1{
+    text-align: left;
+    display: flex;
+    gap: 20px;
+    flex: 1;
+    flex-direction: column;
+
+    
+
 }
